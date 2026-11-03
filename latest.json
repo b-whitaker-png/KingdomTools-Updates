@@ -1,0 +1,115 @@
+{
+  "payload": {
+    "format": 1,
+    "repo": "b-whitaker-png/KingdomTools-Updates",
+    "tag": "release-001",
+    "files": [
+      {
+        "path": "images/animation_transfer.png",
+        "sha256": "c566b607afef7418063506fc00ac6fc761aabe7c8519f320c757ded8567581b6"
+      },
+      {
+        "path": "images/arnold_to_toon.png",
+        "sha256": "c27c57410d8ef818ac0c5f3712b54781554bd84547ee546b8f41a86f651685b5"
+      },
+      {
+        "path": "images/auto_light_linking.png",
+        "sha256": "a09162e28917f541347c5e92294fdb8ac3881e5a3c73167405b8ecf44d2d63bd"
+      },
+      {
+        "path": "images/camera_pfx_toon.png",
+        "sha256": "bb86a77871ac5c315411b19b38a4063ca27a190c606d666a033607b3271a295d"
+      },
+      {
+        "path": "images/character_loader.png",
+        "sha256": "8dc45fdc6455ea3c86437297e8bb463303c41f0af3de25b749bbd91ca96b6728"
+      },
+      {
+        "path": "images/cloth_sim_toggle.png",
+        "sha256": "3c84eec09bd474aa3b70330725c76967b5d0ef235c9fcdd7874032ef58a172ae"
+      },
+      {
+        "path": "images/color_management.png",
+        "sha256": "a3cd2280e285874a750c3287059bb46e6b1d3069cb77cc7146b82953f2b72866"
+      },
+      {
+        "path": "images/delete_connections.png",
+        "sha256": "b4bd29bb4d91cc270e271ce7b0e3ceef4f2d17d092bb58188791ceead49a02b5"
+      },
+      {
+        "path": "images/display_layer_sort.png",
+        "sha256": "90094b157eeaa83e868ad8befc449c5859a391249dc6a99dce7dc4d6cf1531a1"
+      },
+      {
+        "path": "images/lip_sync.png",
+        "sha256": "816064bac1ed8f2fb0a924f9854b268a76e00baa7f9feeb03400b9754fc9ae08"
+      },
+      {
+        "path": "images/namespace_delete.png",
+        "sha256": "1efe8cd0e79633a707e8d79719047f96ab028185e919e7dca20e18e1e5a9a41e"
+      },
+      {
+        "path": "images/render_details.png",
+        "sha256": "fc5cf33e497c9c9abcd48e3fed542d6fc6f9f9f00f2e96eeaacdc7b854785d21"
+      },
+      {
+        "path": "images/rig_replacer.png",
+        "sha256": "c4cc9b10bdeb48a2d48b9c100aa954e410b5082e5763c93416c387c7b02021eb"
+      },
+      {
+        "path": "images/scene_setup.png",
+        "sha256": "a5a72848620db45aa93a2b955ba6199b64f16a6772875f6d8a1f898801e96c3d"
+      },
+      {
+        "path": "images/season_controller.png",
+        "sha256": "0e3c8ea7bba2a9e28ed8e3c2f75827455398003c01e8c3f068fd510d86d20098"
+      },
+      {
+        "path": "images/smooth_groups.png",
+        "sha256": "b1d9d6cffd262c181e2c069f16fa647d6393555a4142f8ecfd8c2aa44db735a7"
+      },
+      {
+        "path": "images/sun_to_ramp.png",
+        "sha256": "60e945f7a7c57618efc738c413488e96049f183f0f512c43f6bfd2852caa4322"
+      },
+      {
+        "path": "scripts/ArnoldToSoftwareToon_v01.py",
+        "sha256": "ca978e2a6d59c40e71089f8e2c1c700095f2f8797dfb9f08dfe278a9d172793e"
+      },
+      {
+        "path": "scripts/CharacterAnimationTransfer_v01.py",
+        "sha256": "390f7b001ad09114f24ba178649eccf6615c2aa5140a1323f93c564d75fa38a7"
+      },
+      {
+        "path": "scripts/CharacterLipSync_v01.py",
+        "sha256": "3a8fafb505567eea5bbac9ee74e9d18a15e8c40dfce8314b07f20845170a2859"
+      },
+      {
+        "path": "scripts/CharacterLoader_v01.py",
+        "sha256": "ff473d09158fca51bafa69bdfb0a24d7fe51725cf0fc309cf495355378957cdc"
+      },
+      {
+        "path": "scripts/CharacterRigReplacer_v01.py",
+        "sha256": "34d2edc28044fb04710c767c7aebcb65fed49d399e04eacdd26efe27b44b9c39"
+      },
+      {
+        "path": "scripts/DeleteConnections_v01.py",
+        "sha256": "2acdbbd1623ce9f44166efc3fadddbaa357916550d1f247d8581088e33e12ad1"
+      },
+      {
+        "path": "scripts/RenderDetails_v01.py",
+        "sha256": "14315f128f24f93efebb9dd46664b8badc8756dc9be462fce91381bd66656ad5"
+      },
+      {
+        "path": "scripts/SeasonController_v01.py",
+        "sha256": "cca0828944b62ca45c0f8917926bd373a5937e6b36e1221faf6c9e56327bd09d"
+      },
+      {
+        "path": "scripts/SunToRamp_v01.py",
+        "sha256": "54ce3559c2bdbca2f368f5ee12ed71a2e6f158948deb9ff901be6aee0259f6fd"
+      }
+    ],
+    "package_sha256": "b914950e0c85ae1855728917497f9b99ec6cd9391e24624e761e74a3e96bf62e"
+  },
+  "signature": "6oDSG8vr1JMErtgJjzbuqkMBl1ngSdNjrORKBxUk2tY5Blc2DHrca2x8Scta7XYMSxhfdoGs5HRwOXS/xrhzDg=="
+}
