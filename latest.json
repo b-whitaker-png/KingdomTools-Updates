@@ -2,7 +2,7 @@
   "payload": {
     "format": 1,
     "repo": "b-whitaker-png/KingdomTools-Updates",
-    "tag": "release-001",
+    "tag": "release-002",
     "files": [
       {
         "path": "images/animation_transfer.png",
@@ -77,6 +77,10 @@
         "sha256": "ca978e2a6d59c40e71089f8e2c1c700095f2f8797dfb9f08dfe278a9d172793e"
       },
       {
+        "path": "scripts/AutoLightLinking_v01.py",
+        "sha256": "ea1a0afef929c03ecce8e497c7c921236fd89b19f4f4616845ad5e8530f1bcd9"
+      },
+      {
         "path": "scripts/CharacterAnimationTransfer_v01.py",
         "sha256": "390f7b001ad09114f24ba178649eccf6615c2aa5140a1323f93c564d75fa38a7"
       },
@@ -109,7 +113,7 @@
         "sha256": "54ce3559c2bdbca2f368f5ee12ed71a2e6f158948deb9ff901be6aee0259f6fd"
       }
     ],
-    "package_sha256": "b914950e0c85ae1855728917497f9b99ec6cd9391e24624e761e74a3e96bf62e"
+    "package_sha256": "e4a6bd59bb25b2b4e3bb0bfb1c764cfe362a525b08f2654d08bfd74b56141eb3"
   },
-  "signature": "6oDSG8vr1JMErtgJjzbuqkMBl1ngSdNjrORKBxUk2tY5Blc2DHrca2x8Scta7XYMSxhfdoGs5HRwOXS/xrhzDg=="
+  "signature": "hKXaM+bvK5lK1fPt8tETz+RdAVWrVwfpFtohcqrZ48O63puwXe0AdRkHEI5MH+fBz7PwToIMAs1Y83mzxeT8Dg=="
 }
