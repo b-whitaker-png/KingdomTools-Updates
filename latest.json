@@ -2,7 +2,7 @@
   "payload": {
     "format": 1,
     "repo": "b-whitaker-png/KingdomTools-Updates",
-    "tag": "release-007",
+    "tag": "release-008",
     "files": [
       {
         "path": "KingdomLauncher_v01.py",
@@ -93,6 +93,10 @@
         "sha256": "ea1a0afef929c03ecce8e497c7c921236fd89b19f4f4616845ad5e8530f1bcd9"
       },
       {
+        "path": "scripts/CameraPFXToon_v01.py",
+        "sha256": "6350f4e3b3bf026497631165563bb1e230ccc810abb241a8e6f87082c1c63cea"
+      },
+      {
         "path": "scripts/CharacterAnimationTransfer_v01.py",
         "sha256": "390f7b001ad09114f24ba178649eccf6615c2aa5140a1323f93c564d75fa38a7"
       },
@@ -121,6 +125,10 @@
         "sha256": "14315f128f24f93efebb9dd46664b8badc8756dc9be462fce91381bd66656ad5"
       },
       {
+        "path": "scripts/SceneSetup_v01.py",
+        "sha256": "9298e1b5b2b9803f6b3f9c171d124f9b2d559a09c5633fd7fcdfae3bdbbcb77e"
+      },
+      {
         "path": "scripts/SeasonController_v01.py",
         "sha256": "cca0828944b62ca45c0f8917926bd373a5937e6b36e1221faf6c9e56327bd09d"
       },
@@ -129,7 +137,7 @@
         "sha256": "54ce3559c2bdbca2f368f5ee12ed71a2e6f158948deb9ff901be6aee0259f6fd"
       }
     ],
-    "package_sha256": "38d749048ab80185181eacce5728ade8213e72c45228b19809e902c3df15689c"
+    "package_sha256": "01e19f961304e373eee8ab0b2a679d85f70510e58f7c33492282909a69ea36ed"
   },
-  "signature": "TDNPXx5eBe+yXH755qTj0aGtjzMw/yCJuoFaBnoFGXNEnEdRGQuk9v22DPiPQ/N8qkkTndCZm79e6fpJRvezCA=="
+  "signature": "tW8x8ojNPK5K2UYWLKvyi/x2jj0EBIZN9H+4mBHAFXG/9xcJnQ3VI3ZzwEkW41ZpNRL3AyQdPBDzE2YgXOfvAQ=="
 }
