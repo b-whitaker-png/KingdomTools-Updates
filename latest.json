@@ -2,11 +2,11 @@
   "payload": {
     "format": 1,
     "repo": "b-whitaker-png/KingdomTools-Updates",
-    "tag": "release-004",
+    "tag": "release-005",
     "files": [
       {
         "path": "KingdomLauncher_v01.py",
-        "sha256": "57d1305a58ef3c5a32d85f5e4085dbf8374084b2983d74ae39394e835ed60923"
+        "sha256": "9d4008cd2fa146658617bf12c1e7c4e1b94b85400da53ea735a071ce748d2864"
       },
       {
         "path": "images/animation_transfer.png",
@@ -125,7 +125,7 @@
         "sha256": "54ce3559c2bdbca2f368f5ee12ed71a2e6f158948deb9ff901be6aee0259f6fd"
       }
     ],
-    "package_sha256": "7da4a57fd83dee5ae5adb73ab2a2720a9ff46e3425ac4a3390225a432339735d"
+    "package_sha256": "80ff9d54aaaf1c4e595a169684fd3ded9422f2d34b1a66f6046f6b3e8b05baf6"
   },
-  "signature": "irrw+c4VoyvvHpgiPKnGJrXvU4V4oO3XpT3S2BAVITQh2I0NQg/1p2gvXw074GoDx8HVRBU6dyoZVNn84dHiDA=="
+  "signature": "0kC/M+OMIOWwgOUxblA+mVfUe9InciOPtWmkCYgrszEN+MGhieiPLuts5Xvci11WQ8Y3FMw8fFMrwsqU4epBDg=="
 }
