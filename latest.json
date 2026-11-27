@@ -2,11 +2,11 @@
   "payload": {
     "format": 1,
     "repo": "b-whitaker-png/KingdomTools-Updates",
-    "tag": "release-009",
+    "tag": "release-010",
     "files": [
       {
         "path": "KingdomLauncher_v01.py",
-        "sha256": "034584b3df5597cff7842043333c3efa1eb8b3227bdff278a23a47b2b2485995"
+        "sha256": "1448253de4e9a8530f3cffeba26519866402d12b4533bceff50514955db9dcdb"
       },
       {
         "path": "images/animation_transfer.png",
@@ -53,6 +53,10 @@
         "sha256": "1efe8cd0e79633a707e8d79719047f96ab028185e919e7dca20e18e1e5a9a41e"
       },
       {
+        "path": "images/renderCheck.png",
+        "sha256": "1683183a327a8e3e448a58093a929be6ec07a2d77a6ab2e5db24bfef1ec55643"
+      },
+      {
         "path": "images/render_details.png",
         "sha256": "fc5cf33e497c9c9abcd48e3fed542d6fc6f9f9f00f2e96eeaacdc7b854785d21"
       },
@@ -78,15 +82,11 @@
       },
       {
         "path": "kingdom_update_ui.py",
-        "sha256": "ef7badbb0b23aac3f4a4197278c90aecd63ba7a0173abd79015c938ec61131f5"
+        "sha256": "c0b12092f9c554c97be9335c9f8db1111dfeb42aba70e2c700ea83f97bb53c64"
       },
       {
         "path": "kingdom_updates.py",
-        "sha256": "51063c63d6ebff12afb7081fc617a524d68f9b034efcb0d985c6164d5d8d95d1"
-      },
-      {
-        "path": "kingdom_version.json",
-        "sha256": "434c79b0b781689fb09c1af0a13d1695eba35fc5b2e7756f8530d7b639c923a6"
+        "sha256": "89dcacf89ad9e381ddbc0387612218bf2bed59f27ec06d03ef35654b2a8917a4"
       },
       {
         "path": "scripts/ArnoldToSoftwareToon_v01.py",
@@ -141,7 +141,7 @@
         "sha256": "54ce3559c2bdbca2f368f5ee12ed71a2e6f158948deb9ff901be6aee0259f6fd"
       }
     ],
-    "package_sha256": "764695c95fa60fb0682b93949d38f0ccdc7782a088730cc7fdafb6eac64d8fa2"
+    "package_sha256": "77334af071a4b54822716b3e540143d441f5400d286f6bcaffaf4058c860b0d9"
   },
-  "signature": "EkWLb25MGyscwO2p7WTlAixZQ2OSGmV+O6eiXgIOfc5VSi0LWMp62gA4VVd57N1Xb5kVTP72XM2D6ouvB2HaBQ=="
+  "signature": "JOndjs73FiI/HHdceovx2Kbg/nxqWDWd3rxhJEWQFUvrRzNqmZgxigKAaok6kGYIyX5/8xQ2oh5eHOJdBh3dCA=="
 }
