@@ -2,11 +2,11 @@
   "payload": {
     "format": 1,
     "repo": "b-whitaker-png/KingdomTools-Updates",
-    "tag": "release-010",
+    "tag": "release-011",
     "files": [
       {
         "path": "KingdomLauncher_v01.py",
-        "sha256": "1448253de4e9a8530f3cffeba26519866402d12b4533bceff50514955db9dcdb"
+        "sha256": "25537725afff1dab6a317e07948b2ddc352190fd54514491d7a82037a3d0ab5a"
       },
       {
         "path": "images/animation_transfer.png",
@@ -125,6 +125,10 @@
         "sha256": "82f244eafcac4b766275987b350c9a38e40bfe8e2078430fe33f5237ac0e2a29"
       },
       {
+        "path": "scripts/PreRenderCheck_v01.py",
+        "sha256": "064aa5c29e999c627f4224de06c13d03eba0911b0ec580757e5a23e1cfb3a31f"
+      },
+      {
         "path": "scripts/RenderDetails_v01.py",
         "sha256": "14315f128f24f93efebb9dd46664b8badc8756dc9be462fce91381bd66656ad5"
       },
@@ -141,7 +145,7 @@
         "sha256": "54ce3559c2bdbca2f368f5ee12ed71a2e6f158948deb9ff901be6aee0259f6fd"
       }
     ],
-    "package_sha256": "77334af071a4b54822716b3e540143d441f5400d286f6bcaffaf4058c860b0d9"
+    "package_sha256": "ae730aec00fe24c5e72a692705dcd4e0bf37d901dabaf22d674ece62e81be323"
   },
-  "signature": "JOndjs73FiI/HHdceovx2Kbg/nxqWDWd3rxhJEWQFUvrRzNqmZgxigKAaok6kGYIyX5/8xQ2oh5eHOJdBh3dCA=="
+  "signature": "UUb10fZ2RLpKqFSGQq+Mjdrt2uN8fx6/Bsgkd9ItPAoDWa5KsjN4Lhea7rry9iW+vaYmoCv8NrrOlgpkHeU/AQ=="
 }
