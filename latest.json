@@ -2,11 +2,11 @@
   "payload": {
     "format": 1,
     "repo": "b-whitaker-png/KingdomTools-Updates",
-    "tag": "release-013",
+    "tag": "release-014",
     "files": [
       {
         "path": "KingdomLauncher_v01.py",
-        "sha256": "0f732f7677b08e45006dae8f99a51821762126e0e44292dc102ef30da66838fd"
+        "sha256": "aba088e38c355ed282e0e7a31c9eca199eae4172c796341aa9bac5e5ac14a3e4"
       },
       {
         "path": "images/animation_transfer.png",
@@ -78,7 +78,7 @@
       },
       {
         "path": "images/smooth_scene.png",
-        "sha256": "0e52ccc04c5e541928663006f53555ad2da15f3f6a24cf0aed2832d89d8d6aad"
+        "sha256": "4fb96b703e5ec469e56fa1f3148388596c9ec20bec67948b2215ea8f9ab97d00"
       },
       {
         "path": "images/sun_to_ramp.png",
@@ -110,7 +110,7 @@
       },
       {
         "path": "scripts/CharacterLipSync_v01.py",
-        "sha256": "3a8fafb505567eea5bbac9ee74e9d18a15e8c40dfce8314b07f20845170a2859"
+        "sha256": "a94b01df713c43e56f0623fc7e12f90a4b2a1bd208e516503bcbd5769443f1ab"
       },
       {
         "path": "scripts/CharacterLoader_v01.py",
@@ -130,7 +130,7 @@
       },
       {
         "path": "scripts/PreRenderCheck_v01.py",
-        "sha256": "064aa5c29e999c627f4224de06c13d03eba0911b0ec580757e5a23e1cfb3a31f"
+        "sha256": "2c42d9d21c088f96a8a0d1cb61c959a5f51578c4499074acf9b29b94d26cb7aa"
       },
       {
         "path": "scripts/RenderDetails_v01.py",
@@ -153,7 +153,7 @@
         "sha256": "36c14ee579f5ac6c7130f260c23c71e6e68719be910a61988e532a9cdc7eb639"
       }
     ],
-    "package_sha256": "e573a7d37744366d4101abe5f6dac80d779e8808c0e3367b3168dc02298f9666"
+    "package_sha256": "c9a749ba573416d24a2698ab1be9fee090e7e6cf19ec0f3a9efe22c0188e52ad"
   },
-  "signature": "kZpA2w9eir0UMhK67px5ai+pSwFUJ2Rl6VEpXs3F6ArQqlwnsZCelx7L9vnVGpugdVVn1eYpiWLdUK/oM9QKAw=="
+  "signature": "vHNU83aeRzk/ySU+xs9Bttpxj1HNms/1xPP5nIa81pGb+xOrmJnlLwH12JE7q20pcQMOq8hvc1XdayUUqdNCAA=="
 }
